@@ -21,13 +21,13 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-###
+## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fhafidz&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+## 🎮 Play Games
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fhafidz/Fhafidz/output/pacman-contribution-graph-dark.svg">
