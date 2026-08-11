@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi, I'm Fariz Taufiqul Hafidz 👋</h1>
-  <h3>Full-Stack Web Developer · Informatics Engineering Graduate</h3>
+  <h1>Hi, I'm Fariz Hafidz 👋</h1>
+  <h3>Full-Stack Web Developer</h3>
   <p>
     I build practical web systems with Laravel and create clean, responsive interfaces with React and Tailwind CSS.
   </p>
