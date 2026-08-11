@@ -39,6 +39,14 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
+## GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Fhafidz&bg_color=0D1117&color=C9D1D9&line=A78BFA&point=FFFFFF&area_color=7C3AED&area=true&hide_border=true&hide_title=true&radius=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Fhafidz&bg_color=FFFFFF&color=24292F&line=7C3AED&point=24292F&area_color=C4B5FD&area=true&hide_border=true&hide_title=true&radius=8">
+  <img alt="Fariz's GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Fhafidz&bg_color=FFFFFF&color=24292F&line=7C3AED&point=24292F&area_color=C4B5FD&area=true&hide_border=true&hide_title=true&radius=8">
+</picture>
+
 ## Contributions
 
 <picture>
